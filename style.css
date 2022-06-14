@@ -11,7 +11,7 @@ main{
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("/2109.w023.n001.1001B.p1.1001.jpg");
+    background-image: url("2109.w023.n001.1001B.p1.1001.jpg");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     background-size: cover;
